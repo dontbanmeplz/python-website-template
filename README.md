@@ -1,4 +1,3 @@
 # python-website-template
-pip install flask
-<d>
-python app.py
+<p> pip install flask</p>
+<p> python app.py </p>
